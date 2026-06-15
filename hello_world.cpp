@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 	
 	cout << "Hello World" << endl;
-	cout << "PTIT" << endl;	
+	cout << "Day la file thu nghiem" << endl;	
 
 	return 0;
 }
