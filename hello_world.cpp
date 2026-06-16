@@ -12,6 +12,6 @@ int main() {
 	cout << "Day la file thu nghiem" << endl;
 	cout << "Day la file thu nghiem" << endl;	
 
-	return 0;
+	return 0;;;;;;;;;;;;;;;;;;;
 }
 	
