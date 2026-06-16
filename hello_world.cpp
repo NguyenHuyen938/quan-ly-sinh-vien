@@ -8,6 +8,6 @@ int main() {
 	cout << "Sua 1 ti" << endl;	
 	cout << "Day la file thu nghiem" << endl;	
 
-	return 0;
+	return 0;;;;;;;;;;;;;;;;;;;
 }
 	
