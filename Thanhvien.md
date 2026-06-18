@@ -1,8 +1,5 @@
 "day la file moi nhat"
 
+File nay da duoc sua boi Giang Vien.
 
-
-File nay da duoc sua boi Giang Vien
-
-Can cap nhat lai.
-
+sua 1 phan ban doc cua lop.
